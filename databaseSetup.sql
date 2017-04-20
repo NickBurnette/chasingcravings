@@ -1,5 +1,5 @@
-CREATE DATABASE chasingcravings;
 
+<<<<<<< HEAD
 CREATE TABLE useraccounts(
 userID		INT PRIMARY KEY,
 username	VARCHAR(20) NOT NULL UNIQUE,
@@ -54,3 +54,5 @@ userID		INT NOT NULL,
 pageReported	VARCHAR(100) NOT NULL, 
 cmnt		VARCHAR(1000),
 CONSTRAINT userID_FK FOREIGN KEY(userID) REFERENCES useraccounts(userID));
+=======
+>>>>>>> parent of c293e0e... Please ignore this and delete

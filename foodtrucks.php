@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <!-- <<<<<<< HEAD --> <!-- Not sure what this is but keep it anyway (made it a comment) -Nick -->
 <!--	Author: Chris Olsson
@@ -70,3 +71,6 @@
 <!-- >>>>>>> refs/remotes/colsson0/master --> <!-- Not sure what this is but keep it anyway (made it a comment) -Nick -->
 </body>
 </html>
+=======
+
+>>>>>>> parent of c293e0e... Please ignore this and delete
